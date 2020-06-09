@@ -1,5 +1,6 @@
 # Training with the Eleven VR Table Tennis Ball Machine: Dynamic Dynamic Drillinator Settings
 [The settings](https://github.com/shanelindsay/ElevenBallMachine/blob/master/BallLauncherSettings.json)
+[List of settings names](https://github.com/shanelindsay/ElevenBallMachine/blob/master/Dynamic%20Drillinator%20Names)
 
 # Introduction and logic
 
@@ -116,10 +117,12 @@ If you are training on your own, setting targets can help with motivation and ke
 ## For installing
 
 - Download .json file - do not change name of "BallLauncherSettings.json"
-- For Quest, use Sidequest to navigate to:
+- For **Quest**, use Sidequest to navigate to:
   sdcard/android/data/quest.eleven.forfunlabs/settings/
-- For PC, navigate to:
-  ...
+- For **PC**, navigate to:
+  c:\Program Files (x86)\Steam\steamapps\common\Eleven Table Tennis VR\settings\BallLauncherSettings.json
+**or** 
+c:\Program Files\Oculus\Software\Software\for-fun-labs-eleven-table-tennis-vr\settings\BallLauncherSettings.json
 - (Optionally) Back up existing BallLauncherSettings.json file
 - (Optionally) Copy your existing settings to the downloaded.json using a text editor (note if appending: last individual setting should not have a comma at end)
 - Replace with downloaded .json
