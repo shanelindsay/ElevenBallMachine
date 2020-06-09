@@ -1,0 +1,48 @@
+
+YOUR OWN SERVE
+SERVE_1 R<L Bs Ss Pendulum
+SERVE 2 R=R Ts Ss Rev Pendulum
+SERVE 3 R=R Ts Ss Tomahawk
+SERVE 4 R<L Ts Fast
+SERVE 5 R=R Ts Fast
+SERVE 6 R<L/M Bs Short
+SERVE 7 R=R Bs Short
+SERVE 8 R-Rand Bs Dbl Bounce
+SERVE 9 M-Rand Bs Dbl Bounce
+SERVE 10 L-Rand Bs Dbl Bounce
+FLICK L>R
+FLICK R<L
+BACKSPIN R<L Long
+BACKSPIN R<M Long
+BACKSPIN R=R Long
+BACKSPIN L=L Long
+BACKSPIN L>M Long
+BACKSPIN L>R Long
+BACKSPIN R>Rand Long
+BACKSPIN M-Rand Short
+BACKSPIN M-Rand Long
+BACKSPIN Long=Long RandX
+BACKSPIN Short=Long RandX
+BACKSPIN Short=Short RandX
+DRIVE 1 L>R
+DRIVE 2 R=R
+DRIVE 3 R<L
+DRIVE 4 L=L
+DRIVE 5 M=M
+DRIVE 6 R<M
+DRIVE M-Rand
+LOOP RandX Fast
+LOOP R<L Slow
+LOOP RandX Slow
+LOOP M-Rand Fast
+LOOP Rand Half-long open up
+LOOP L>R
+LOOP R<L
+COUNTER R<L
+COUNTER R<M
+COUNTER L>R
+COUNTER M>Rand
+SMASH PARTY
+LOB 1
+LOB 2
+LOB 3
