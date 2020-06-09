@@ -115,7 +115,7 @@ If you are training on your own, setting targets can help with motivation and ke
 
 # Editing Eleven ball machine settings 
 
-## For installing
+## For installing (note: eventually this should be redundant as Eleven will allow uploading/downloading)
 
 - Download .json file - do not change name of "BallLauncherSettings.json"
 - For **Quest**, use Sidequest to navigate to:
