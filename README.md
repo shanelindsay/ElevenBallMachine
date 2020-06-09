@@ -38,7 +38,7 @@ If you are training on your own, setting targets can help with motivation and ke
 # Principles behind Dynamic Drillinator Settings
 
 1. The settings are named in capitals for the shot the ball machine is emulating, not the shot that you should hit.   
-2. Naming conventions: STROKE + location of robot (Left/Middle/Right) > placement of shot (Left/Middle/Right) + Additional Information; e.g. L > R = would be for two right handed players a shot from the forehand side across the diagonal to the opposing forehand side. The > or < sign indicates the direction of the ball (from left to right or right to left) and = indicates a parallel shot e.g. R=R.Ts = Topspin, Bs = Backspin, Ss = Sidespin (shots like LOOP defined by spin won't have additional spin markers). Rand = Static robot but random horizontal angle, RandX = Random robot on horizontal/X axis (hitting parallel balls).
+2. Naming conventions: STROKE + location of robot (Left/Middle/Right) > placement of shot (Left/Middle/Right) + Additional Information; e.g. L > R = would be for two right handed players a shot from the forehand side across the diagonal to the opposing forehand side. The > or < sign indicates the direction of the ball (from left to right or right to left) and = indicates a parallel shot e.g. R=R.Ts = Topspin, Bs = Backspin, Ss = Sidespin (shots like LOOP defined by spin won't have additional spin markers). Rand = Static robot but random horizontal angle, RandX = Random robot on horizontal/X axis (hitting parallel balls). FH = Forehand, BH = Backhand.
 3. The settings are ordered (approximately speaking) in the order shots might be expected in a rally (though most rally's don't last this long!), as follows:
    -A player SERVEs (1st ball)
    -An opponent returns with a quick topspin FLICK, or BACKSPIN return that is Short or Long (2nd ball)
@@ -132,3 +132,6 @@ c:\Program Files\Oculus\Software\Software\for-fun-labs-eleven-table-tennis-vr\se
 
 - Use an offline edit with .json syntax highlighting and folding (e.g. Notepad++ on Windows) or online editor such as https://codebeautify.org/jsonviewer
 - Use online processor to check for .json parsing errors (e.g. missing a comma) 
+
+## The future...
+- These settings are not comprehensive. On possible future is to have some kind of database with settings for possible shot (within reason), categorised into skill levels, allowing easy drill creation, along with drill templates, with user instruction. Let me know via Discord if you are interested in contributing to the creation of such a database. 
