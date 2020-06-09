@@ -1,4 +1,5 @@
 # Training with the Eleven VR Table Tennis Ball Machine: Dynamic Dynamic Drillinator Settings
+[The settings](https://github.com/shanelindsay/ElevenBallMachine/blob/master/BallLauncherSettings.json)
 
 # Introduction and logic
 
