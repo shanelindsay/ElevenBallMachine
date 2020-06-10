@@ -2446,7 +2446,7 @@
         "speedAndRate":{
           "raw":{
             "speed":"7.90180015563965",
-            "secondsPerLaunch":"1.00855827331543"
+            "secondsPerLaunch":"1.50855827331543"
           },
           "spread":{
             "speed":"0.479767262935638",
@@ -2493,7 +2493,7 @@
         "speedAndRate":{
           "raw":{
             "speed":"7.90180015563965",
-            "secondsPerLaunch":"1.00855827331543"
+            "secondsPerLaunch":"1.60855827331543"
           },
           "spread":{
             "speed":"0.479767262935638",
@@ -2539,8 +2539,8 @@
         },
         "speedAndRate":{
           "raw":{
-            "speed":"9.08783149719238",
-            "secondsPerLaunch":"1.00855827331543"
+            "speed":"7.08783149719238",
+            "secondsPerLaunch":"1.60855827331543"
           },
           "spread":{
             "speed":"0.236128643155098",
